@@ -1,0 +1,110 @@
+body {
+	background-color: #f2f2f2;
+	font-family: Arial, sans-serif;
+}
+
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+}
+
+.heading {
+	margin: 0;
+	font-size: 36px;
+	text-align: center;
+}
+
+img {
+	display: block;
+	margin: 20px auto;
+	max-width: 100%;
+}
+
+main {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+.button {
+	display: block;
+	width: 200px;
+	margin: 20px auto;
+	padding: 10px 20px;
+	background-color: #333;
+	color: #fff;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 5px;
+}
+.header{
+    width: 100%;
+    height: 75px;
+    background-color:#DBDFEA;
+    
+}
+.features-body{
+    margin: 0;
+    max-width: 100%;
+}
+.brand{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    margin: 0px;
+    padding: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    
+}
+.features{
+    position: relative;
+    left: 80%;
+    bottom: 95%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.pic{
+    width: 600px;
+    height: 400px;
+    margin: 0px;
+}
+.imgpic{
+    display: block;
+    margin:  0 auto ;
+    max-width: 100%;
+    padding-top: 20px;
+}
+.promt{
+    position: absolute;
+    left: 60%;
+    top: 30%;
+}
+.low{
+    background-color: #9BA4B5;
+    padding: 30px;
+    width: 100%;
+}
+.about{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.brand-index{
+    font-size: 30px;
+    margin: 0px;
+    padding: px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Home{
+    text-decoration: none;
+    color: black;
+}
+:hover.Home{
+   background-color:black;
+   color: white;
+   padding: 10px;
+   border-radius: 10px;
+
+}
+:hover.button{
+    background-color: red;
+}
